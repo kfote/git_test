@@ -1,0 +1,1 @@
+This is Foti's first git project!
